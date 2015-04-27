@@ -1,0 +1,8 @@
+/*
+ * This example shows the fancy style of currying
+ * The curly braces "{}" n the defs are optional
+ */
+import scala.io.Source
+object Main15 extends App {
+ val fileContents = scala.io.Source.fromFile("D:/Edureka/Spark and Scala/readFile.txt").getLines().mkString
+ }
