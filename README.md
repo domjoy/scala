@@ -6,5 +6,7 @@ includes organized scala examples for learning the scala language. Source code i
 
 ##### Sdp
 Here's where you'll see:
+
 1) question-answer type scala programming assignments
-2) reusable java code snippets
+
+2) reusable scala code snippets
